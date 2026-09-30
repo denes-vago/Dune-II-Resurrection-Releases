@@ -28,5 +28,3 @@ of the release certificate is:
 ```text
 96:0C:C7:80:33:D0:DB:20:B1:61:95:61:AB:DB:F1:FA:36:BA:DB:5E:52:FB:D9:F1:C7:80:CB:F2:3A:C0:D7:AA
 ```
-
-This repository contains release downloads only. It does not contain the game source code.
