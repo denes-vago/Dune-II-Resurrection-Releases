@@ -1,7 +1,5 @@
 ![DUNE II: Resurrection](assets/dune-ii-resurrection-banner.png)
 
-# DUNE II: Resurrection Releases
-
 **DUNE II: Resurrection** brings the classic real-time strategy experience to modern systems with high-resolution visuals, streamlined controls, and an improved interface.
 
 Command multiple units, manage production queues, challenge enhanced computer opponents, or battle other players in multiplayer matches. Create and share custom maps, scenarios, and complete campaigns with the integrated editor.
