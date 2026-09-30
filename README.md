@@ -1,3 +1,5 @@
+![DUNE II: Resurrection](assets/dune-ii-resurrection-banner.png)
+
 # DUNE II: Resurrection Releases
 
 **DUNE II: Resurrection** brings the classic real-time strategy experience to modern systems with high-resolution visuals, streamlined controls, and an improved interface.
