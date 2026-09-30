@@ -1,10 +1,11 @@
-# JDune Releases
+# DUNE II: Resurrection Releases
 
-Official signed release downloads for **DUNE II: Resurrection (JDune)**.
+Official signed release downloads for **DUNE II: Resurrection**.
 
 ## Downloads
 
-Download the current release from the [Releases](https://github.com/denes-vago/JDune-Releases/releases) page.
+Download the current release from the
+[Releases](https://github.com/denes-vago/Dune-II-Resurrection-Releases/releases) page.
 
 Available packages:
 
@@ -22,7 +23,7 @@ Follow `VERIFYING_RELEASES.md` included with each release. The expected SHA-256 
 of the release certificate is:
 
 ```text
-A9:A7:26:97:D6:EE:27:55:49:8D:A1:8B:BB:28:7C:12:B0:A7:40:17:41:83:B1:01:27:C2:52:D0:78:A0:6D:52
+96:0C:C7:80:33:D0:DB:20:B1:61:95:61:AB:DB:F1:FA:36:BA:DB:5E:52:FB:D9:F1:C7:80:CB:F2:3A:C0:D7:AA
 ```
 
-This repository contains release downloads only. It does not contain the JDune source code.
+This repository contains release downloads only. It does not contain the game source code.
