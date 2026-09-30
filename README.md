@@ -10,7 +10,7 @@ Current version: **1.0.0 beta**
 
 [![Download Windows x64 ZIP](https://img.shields.io/badge/Windows_x64-Portable_ZIP-0078D4?logo=windows11&logoColor=white)](https://github.com/denes-vago/Dune-II-Resurrection-Releases/releases/download/v1.0.0-beta/d2r-1.0.0-beta-windows-x64.zip)
 
-[![Download macOS ARM64 DMG](https://img.shields.io/badge/macOS_ARM64-DMG-000000?logo=apple&logoColor=white)](https://github.com/denes-vago/Dune-II-Resurrection-Releases/releases/download/v1.0.0-beta/d2r-1.0.0-beta-macos-arm64.dmg)
+[![Download macOS ARM64 DMG](https://img.shields.io/badge/macOS_ARM64-DMG-6E6E73?logo=apple&logoColor=white)](https://github.com/denes-vago/Dune-II-Resurrection-Releases/releases/download/v1.0.0-beta/d2r-1.0.0-beta-macos-arm64.dmg)
 
 [![Download Linux x64 TAR.GZ](https://img.shields.io/badge/Linux_x64-TAR.GZ-FCC624?logo=linux&logoColor=black)](https://github.com/denes-vago/Dune-II-Resurrection-Releases/releases/download/v1.0.0-beta/d2r-1.0.0-beta-linux-x64.tar.gz)
 
